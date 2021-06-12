@@ -22,5 +22,5 @@ This app is deployed by Firebase
 3) Material UI Icons
 
 
-![](https://github.com/adarsh-3099/Covid-19-Tracker/blob/main/Screenshot%20(531).png)
+![](https://github.com/adarsh-3099/Tinder-Clone/blob/main/Screenshot%20(531).png)
 
